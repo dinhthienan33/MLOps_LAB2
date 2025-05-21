@@ -19,7 +19,6 @@ ENV/
 # Data and output files
 data/
 output/
-models/
 checkpoints/
 mlruns/
 
