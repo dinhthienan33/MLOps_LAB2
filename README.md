@@ -102,7 +102,7 @@ docker pull andt123/mobile-price-api:latest
 
 ## Video Demonstration
 
-[![Model API Deployment Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[Model API Deployment with Docker Demo](https://youtu.be/Rq1_2sQYOmU)
 
 This video demonstrates:
 1. Building the Docker image
