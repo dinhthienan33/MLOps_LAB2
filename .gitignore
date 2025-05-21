@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+
+# Data and output files
+data/
+output/
+models/
+checkpoints/
+mlruns/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db 
+
+.cursor
+.env.example
+
+# Docker
+.docker/ 
